@@ -2,899 +2,1847 @@
     {
         "index": 0,
         "weightDecay": 0.0,
-        "hiddenWidth": 20,
+        "hiddenWidth": 2,
         "labelNoise": 0
     },
     {
         "index": 1,
         "weightDecay": 0.0,
-        "hiddenWidth": 20,
+        "hiddenWidth": 2,
         "labelNoise": 5
     },
     {
         "index": 2,
         "weightDecay": 0.0,
-        "hiddenWidth": 20,
-        "labelNoise": 10
+        "hiddenWidth": 2,
+        "labelNoise": 15
     },
     {
         "index": 3,
         "weightDecay": 0.0,
-        "hiddenWidth": 20,
-        "labelNoise": 15
+        "hiddenWidth": 2,
+        "labelNoise": 25
     },
     {
         "index": 4,
         "weightDecay": 0.0,
-        "hiddenWidth": 20,
-        "labelNoise": 20
+        "hiddenWidth": 4,
+        "labelNoise": 0
     },
     {
         "index": 5,
         "weightDecay": 0.0,
-        "hiddenWidth": 20,
-        "labelNoise": 25
+        "hiddenWidth": 4,
+        "labelNoise": 5
     },
     {
         "index": 6,
         "weightDecay": 0.0,
-        "hiddenWidth": 48,
-        "labelNoise": 0
+        "hiddenWidth": 4,
+        "labelNoise": 15
     },
     {
         "index": 7,
         "weightDecay": 0.0,
-        "hiddenWidth": 48,
-        "labelNoise": 5
+        "hiddenWidth": 4,
+        "labelNoise": 25
     },
     {
         "index": 8,
         "weightDecay": 0.0,
-        "hiddenWidth": 48,
-        "labelNoise": 10
+        "hiddenWidth": 8,
+        "labelNoise": 0
     },
     {
         "index": 9,
         "weightDecay": 0.0,
-        "hiddenWidth": 48,
-        "labelNoise": 15
+        "hiddenWidth": 8,
+        "labelNoise": 5
     },
     {
         "index": 10,
         "weightDecay": 0.0,
-        "hiddenWidth": 48,
-        "labelNoise": 20
+        "hiddenWidth": 8,
+        "labelNoise": 15
     },
     {
         "index": 11,
         "weightDecay": 0.0,
-        "hiddenWidth": 48,
+        "hiddenWidth": 8,
         "labelNoise": 25
     },
     {
         "index": 12,
         "weightDecay": 0.0,
-        "hiddenWidth": 128,
+        "hiddenWidth": 12,
         "labelNoise": 0
     },
     {
         "index": 13,
         "weightDecay": 0.0,
-        "hiddenWidth": 128,
+        "hiddenWidth": 12,
         "labelNoise": 5
     },
     {
         "index": 14,
         "weightDecay": 0.0,
-        "hiddenWidth": 128,
-        "labelNoise": 10
+        "hiddenWidth": 12,
+        "labelNoise": 15
     },
     {
         "index": 15,
         "weightDecay": 0.0,
-        "hiddenWidth": 128,
-        "labelNoise": 15
+        "hiddenWidth": 12,
+        "labelNoise": 25
     },
     {
         "index": 16,
         "weightDecay": 0.0,
-        "hiddenWidth": 128,
-        "labelNoise": 20
+        "hiddenWidth": 16,
+        "labelNoise": 0
     },
     {
         "index": 17,
         "weightDecay": 0.0,
-        "hiddenWidth": 128,
-        "labelNoise": 25
+        "hiddenWidth": 16,
+        "labelNoise": 5
     },
     {
         "index": 18,
         "weightDecay": 0.0,
-        "hiddenWidth": 256,
-        "labelNoise": 0
+        "hiddenWidth": 16,
+        "labelNoise": 15
     },
     {
         "index": 19,
         "weightDecay": 0.0,
-        "hiddenWidth": 256,
-        "labelNoise": 5
+        "hiddenWidth": 16,
+        "labelNoise": 25
     },
     {
         "index": 20,
         "weightDecay": 0.0,
-        "hiddenWidth": 256,
-        "labelNoise": 10
+        "hiddenWidth": 20,
+        "labelNoise": 0
     },
     {
         "index": 21,
         "weightDecay": 0.0,
-        "hiddenWidth": 256,
-        "labelNoise": 15
+        "hiddenWidth": 20,
+        "labelNoise": 5
     },
     {
         "index": 22,
         "weightDecay": 0.0,
-        "hiddenWidth": 256,
-        "labelNoise": 20
+        "hiddenWidth": 20,
+        "labelNoise": 15
     },
     {
         "index": 23,
         "weightDecay": 0.0,
-        "hiddenWidth": 256,
+        "hiddenWidth": 20,
         "labelNoise": 25
     },
     {
         "index": 24,
         "weightDecay": 0.0,
-        "hiddenWidth": 512,
+        "hiddenWidth": 32,
         "labelNoise": 0
     },
     {
         "index": 25,
         "weightDecay": 0.0,
-        "hiddenWidth": 512,
+        "hiddenWidth": 32,
         "labelNoise": 5
     },
     {
         "index": 26,
         "weightDecay": 0.0,
-        "hiddenWidth": 512,
-        "labelNoise": 10
+        "hiddenWidth": 32,
+        "labelNoise": 15
     },
     {
         "index": 27,
         "weightDecay": 0.0,
-        "hiddenWidth": 512,
-        "labelNoise": 15
+        "hiddenWidth": 32,
+        "labelNoise": 25
     },
     {
         "index": 28,
         "weightDecay": 0.0,
-        "hiddenWidth": 512,
-        "labelNoise": 20
+        "hiddenWidth": 64,
+        "labelNoise": 0
     },
     {
         "index": 29,
+        "weightDecay": 0.0,
+        "hiddenWidth": 64,
+        "labelNoise": 5
+    },
+    {
+        "index": 30,
+        "weightDecay": 0.0,
+        "hiddenWidth": 64,
+        "labelNoise": 15
+    },
+    {
+        "index": 31,
+        "weightDecay": 0.0,
+        "hiddenWidth": 64,
+        "labelNoise": 25
+    },
+    {
+        "index": 32,
+        "weightDecay": 0.0,
+        "hiddenWidth": 128,
+        "labelNoise": 0
+    },
+    {
+        "index": 33,
+        "weightDecay": 0.0,
+        "hiddenWidth": 128,
+        "labelNoise": 5
+    },
+    {
+        "index": 34,
+        "weightDecay": 0.0,
+        "hiddenWidth": 128,
+        "labelNoise": 15
+    },
+    {
+        "index": 35,
+        "weightDecay": 0.0,
+        "hiddenWidth": 128,
+        "labelNoise": 25
+    },
+    {
+        "index": 36,
+        "weightDecay": 0.0,
+        "hiddenWidth": 256,
+        "labelNoise": 0
+    },
+    {
+        "index": 37,
+        "weightDecay": 0.0,
+        "hiddenWidth": 256,
+        "labelNoise": 5
+    },
+    {
+        "index": 38,
+        "weightDecay": 0.0,
+        "hiddenWidth": 256,
+        "labelNoise": 15
+    },
+    {
+        "index": 39,
+        "weightDecay": 0.0,
+        "hiddenWidth": 256,
+        "labelNoise": 25
+    },
+    {
+        "index": 40,
+        "weightDecay": 0.0,
+        "hiddenWidth": 512,
+        "labelNoise": 0
+    },
+    {
+        "index": 41,
+        "weightDecay": 0.0,
+        "hiddenWidth": 512,
+        "labelNoise": 5
+    },
+    {
+        "index": 42,
+        "weightDecay": 0.0,
+        "hiddenWidth": 512,
+        "labelNoise": 15
+    },
+    {
+        "index": 43,
         "weightDecay": 0.0,
         "hiddenWidth": 512,
         "labelNoise": 25
     },
     {
-        "index": 30,
-        "weightDecay": 0.0001,
-        "hiddenWidth": 20,
-        "labelNoise": 0
-    },
-    {
-        "index": 31,
-        "weightDecay": 0.0001,
-        "hiddenWidth": 20,
-        "labelNoise": 5
-    },
-    {
-        "index": 32,
-        "weightDecay": 0.0001,
-        "hiddenWidth": 20,
-        "labelNoise": 10
-    },
-    {
-        "index": 33,
-        "weightDecay": 0.0001,
-        "hiddenWidth": 20,
-        "labelNoise": 15
-    },
-    {
-        "index": 34,
-        "weightDecay": 0.0001,
-        "hiddenWidth": 20,
-        "labelNoise": 20
-    },
-    {
-        "index": 35,
-        "weightDecay": 0.0001,
-        "hiddenWidth": 20,
-        "labelNoise": 25
-    },
-    {
-        "index": 36,
-        "weightDecay": 0.0001,
-        "hiddenWidth": 48,
-        "labelNoise": 0
-    },
-    {
-        "index": 37,
-        "weightDecay": 0.0001,
-        "hiddenWidth": 48,
-        "labelNoise": 5
-    },
-    {
-        "index": 38,
-        "weightDecay": 0.0001,
-        "hiddenWidth": 48,
-        "labelNoise": 10
-    },
-    {
-        "index": 39,
-        "weightDecay": 0.0001,
-        "hiddenWidth": 48,
-        "labelNoise": 15
-    },
-    {
-        "index": 40,
-        "weightDecay": 0.0001,
-        "hiddenWidth": 48,
-        "labelNoise": 20
-    },
-    {
-        "index": 41,
-        "weightDecay": 0.0001,
-        "hiddenWidth": 48,
-        "labelNoise": 25
-    },
-    {
-        "index": 42,
-        "weightDecay": 0.0001,
-        "hiddenWidth": 128,
-        "labelNoise": 0
-    },
-    {
-        "index": 43,
-        "weightDecay": 0.0001,
-        "hiddenWidth": 128,
-        "labelNoise": 5
-    },
-    {
         "index": 44,
         "weightDecay": 0.0001,
-        "hiddenWidth": 128,
-        "labelNoise": 10
+        "hiddenWidth": 2,
+        "labelNoise": 0
     },
     {
         "index": 45,
         "weightDecay": 0.0001,
-        "hiddenWidth": 128,
-        "labelNoise": 15
+        "hiddenWidth": 2,
+        "labelNoise": 5
     },
     {
         "index": 46,
         "weightDecay": 0.0001,
-        "hiddenWidth": 128,
-        "labelNoise": 20
+        "hiddenWidth": 2,
+        "labelNoise": 15
     },
     {
         "index": 47,
         "weightDecay": 0.0001,
-        "hiddenWidth": 128,
+        "hiddenWidth": 2,
         "labelNoise": 25
     },
     {
         "index": 48,
         "weightDecay": 0.0001,
-        "hiddenWidth": 256,
+        "hiddenWidth": 4,
         "labelNoise": 0
     },
     {
         "index": 49,
         "weightDecay": 0.0001,
-        "hiddenWidth": 256,
+        "hiddenWidth": 4,
         "labelNoise": 5
     },
     {
         "index": 50,
         "weightDecay": 0.0001,
-        "hiddenWidth": 256,
-        "labelNoise": 10
+        "hiddenWidth": 4,
+        "labelNoise": 15
     },
     {
         "index": 51,
         "weightDecay": 0.0001,
-        "hiddenWidth": 256,
-        "labelNoise": 15
+        "hiddenWidth": 4,
+        "labelNoise": 25
     },
     {
         "index": 52,
         "weightDecay": 0.0001,
-        "hiddenWidth": 256,
-        "labelNoise": 20
+        "hiddenWidth": 8,
+        "labelNoise": 0
     },
     {
         "index": 53,
         "weightDecay": 0.0001,
-        "hiddenWidth": 256,
-        "labelNoise": 25
+        "hiddenWidth": 8,
+        "labelNoise": 5
     },
     {
         "index": 54,
         "weightDecay": 0.0001,
-        "hiddenWidth": 512,
-        "labelNoise": 0
+        "hiddenWidth": 8,
+        "labelNoise": 15
     },
     {
         "index": 55,
         "weightDecay": 0.0001,
-        "hiddenWidth": 512,
-        "labelNoise": 5
+        "hiddenWidth": 8,
+        "labelNoise": 25
     },
     {
         "index": 56,
         "weightDecay": 0.0001,
-        "hiddenWidth": 512,
-        "labelNoise": 10
+        "hiddenWidth": 12,
+        "labelNoise": 0
     },
     {
         "index": 57,
         "weightDecay": 0.0001,
-        "hiddenWidth": 512,
-        "labelNoise": 15
+        "hiddenWidth": 12,
+        "labelNoise": 5
     },
     {
         "index": 58,
         "weightDecay": 0.0001,
-        "hiddenWidth": 512,
-        "labelNoise": 20
+        "hiddenWidth": 12,
+        "labelNoise": 15
     },
     {
         "index": 59,
         "weightDecay": 0.0001,
-        "hiddenWidth": 512,
+        "hiddenWidth": 12,
         "labelNoise": 25
     },
     {
         "index": 60,
-        "weightDecay": 0.001,
-        "hiddenWidth": 20,
+        "weightDecay": 0.0001,
+        "hiddenWidth": 16,
         "labelNoise": 0
     },
     {
         "index": 61,
-        "weightDecay": 0.001,
-        "hiddenWidth": 20,
+        "weightDecay": 0.0001,
+        "hiddenWidth": 16,
         "labelNoise": 5
     },
     {
         "index": 62,
-        "weightDecay": 0.001,
-        "hiddenWidth": 20,
-        "labelNoise": 10
+        "weightDecay": 0.0001,
+        "hiddenWidth": 16,
+        "labelNoise": 15
     },
     {
         "index": 63,
-        "weightDecay": 0.001,
+        "weightDecay": 0.0001,
+        "hiddenWidth": 16,
+        "labelNoise": 25
+    },
+    {
+        "index": 64,
+        "weightDecay": 0.0001,
+        "hiddenWidth": 20,
+        "labelNoise": 0
+    },
+    {
+        "index": 65,
+        "weightDecay": 0.0001,
+        "hiddenWidth": 20,
+        "labelNoise": 5
+    },
+    {
+        "index": 66,
+        "weightDecay": 0.0001,
         "hiddenWidth": 20,
         "labelNoise": 15
     },
     {
-        "index": 64,
-        "weightDecay": 0.001,
-        "hiddenWidth": 20,
-        "labelNoise": 20
-    },
-    {
-        "index": 65,
-        "weightDecay": 0.001,
+        "index": 67,
+        "weightDecay": 0.0001,
         "hiddenWidth": 20,
         "labelNoise": 25
     },
     {
-        "index": 66,
-        "weightDecay": 0.001,
-        "hiddenWidth": 48,
+        "index": 68,
+        "weightDecay": 0.0001,
+        "hiddenWidth": 32,
         "labelNoise": 0
     },
     {
-        "index": 67,
-        "weightDecay": 0.001,
-        "hiddenWidth": 48,
+        "index": 69,
+        "weightDecay": 0.0001,
+        "hiddenWidth": 32,
         "labelNoise": 5
     },
     {
-        "index": 68,
-        "weightDecay": 0.001,
-        "hiddenWidth": 48,
-        "labelNoise": 10
-    },
-    {
-        "index": 69,
-        "weightDecay": 0.001,
-        "hiddenWidth": 48,
+        "index": 70,
+        "weightDecay": 0.0001,
+        "hiddenWidth": 32,
         "labelNoise": 15
     },
     {
-        "index": 70,
-        "weightDecay": 0.001,
-        "hiddenWidth": 48,
-        "labelNoise": 20
-    },
-    {
         "index": 71,
-        "weightDecay": 0.001,
-        "hiddenWidth": 48,
+        "weightDecay": 0.0001,
+        "hiddenWidth": 32,
         "labelNoise": 25
     },
     {
         "index": 72,
-        "weightDecay": 0.001,
-        "hiddenWidth": 128,
+        "weightDecay": 0.0001,
+        "hiddenWidth": 64,
         "labelNoise": 0
     },
     {
         "index": 73,
-        "weightDecay": 0.001,
-        "hiddenWidth": 128,
+        "weightDecay": 0.0001,
+        "hiddenWidth": 64,
         "labelNoise": 5
     },
     {
         "index": 74,
-        "weightDecay": 0.001,
-        "hiddenWidth": 128,
-        "labelNoise": 10
+        "weightDecay": 0.0001,
+        "hiddenWidth": 64,
+        "labelNoise": 15
     },
     {
         "index": 75,
-        "weightDecay": 0.001,
+        "weightDecay": 0.0001,
+        "hiddenWidth": 64,
+        "labelNoise": 25
+    },
+    {
+        "index": 76,
+        "weightDecay": 0.0001,
+        "hiddenWidth": 128,
+        "labelNoise": 0
+    },
+    {
+        "index": 77,
+        "weightDecay": 0.0001,
+        "hiddenWidth": 128,
+        "labelNoise": 5
+    },
+    {
+        "index": 78,
+        "weightDecay": 0.0001,
         "hiddenWidth": 128,
         "labelNoise": 15
     },
     {
-        "index": 76,
-        "weightDecay": 0.001,
-        "hiddenWidth": 128,
-        "labelNoise": 20
-    },
-    {
-        "index": 77,
-        "weightDecay": 0.001,
+        "index": 79,
+        "weightDecay": 0.0001,
         "hiddenWidth": 128,
         "labelNoise": 25
     },
     {
-        "index": 78,
-        "weightDecay": 0.001,
+        "index": 80,
+        "weightDecay": 0.0001,
         "hiddenWidth": 256,
         "labelNoise": 0
     },
     {
-        "index": 79,
-        "weightDecay": 0.001,
+        "index": 81,
+        "weightDecay": 0.0001,
         "hiddenWidth": 256,
         "labelNoise": 5
     },
     {
-        "index": 80,
-        "weightDecay": 0.001,
-        "hiddenWidth": 256,
-        "labelNoise": 10
-    },
-    {
-        "index": 81,
-        "weightDecay": 0.001,
+        "index": 82,
+        "weightDecay": 0.0001,
         "hiddenWidth": 256,
         "labelNoise": 15
     },
     {
-        "index": 82,
-        "weightDecay": 0.001,
-        "hiddenWidth": 256,
-        "labelNoise": 20
-    },
-    {
         "index": 83,
-        "weightDecay": 0.001,
+        "weightDecay": 0.0001,
         "hiddenWidth": 256,
         "labelNoise": 25
     },
     {
         "index": 84,
-        "weightDecay": 0.001,
+        "weightDecay": 0.0001,
         "hiddenWidth": 512,
         "labelNoise": 0
     },
     {
         "index": 85,
-        "weightDecay": 0.001,
+        "weightDecay": 0.0001,
         "hiddenWidth": 512,
         "labelNoise": 5
     },
     {
         "index": 86,
-        "weightDecay": 0.001,
-        "hiddenWidth": 512,
-        "labelNoise": 10
-    },
-    {
-        "index": 87,
-        "weightDecay": 0.001,
+        "weightDecay": 0.0001,
         "hiddenWidth": 512,
         "labelNoise": 15
     },
     {
-        "index": 88,
-        "weightDecay": 0.001,
-        "hiddenWidth": 512,
-        "labelNoise": 20
-    },
-    {
-        "index": 89,
-        "weightDecay": 0.001,
+        "index": 87,
+        "weightDecay": 0.0001,
         "hiddenWidth": 512,
         "labelNoise": 25
     },
     {
-        "index": 90,
-        "weightDecay": 0.1,
-        "hiddenWidth": 20,
+        "index": 88,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 2,
         "labelNoise": 0
     },
     {
-        "index": 91,
-        "weightDecay": 0.1,
-        "hiddenWidth": 20,
+        "index": 89,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 2,
         "labelNoise": 5
     },
     {
-        "index": 92,
-        "weightDecay": 0.1,
-        "hiddenWidth": 20,
-        "labelNoise": 10
-    },
-    {
-        "index": 93,
-        "weightDecay": 0.1,
-        "hiddenWidth": 20,
+        "index": 90,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 2,
         "labelNoise": 15
     },
     {
+        "index": 91,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 2,
+        "labelNoise": 25
+    },
+    {
+        "index": 92,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 4,
+        "labelNoise": 0
+    },
+    {
+        "index": 93,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 4,
+        "labelNoise": 5
+    },
+    {
         "index": 94,
-        "weightDecay": 0.1,
-        "hiddenWidth": 20,
-        "labelNoise": 20
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 4,
+        "labelNoise": 15
     },
     {
         "index": 95,
-        "weightDecay": 0.1,
-        "hiddenWidth": 20,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 4,
         "labelNoise": 25
     },
     {
         "index": 96,
-        "weightDecay": 0.1,
-        "hiddenWidth": 48,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 8,
         "labelNoise": 0
     },
     {
         "index": 97,
-        "weightDecay": 0.1,
-        "hiddenWidth": 48,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 8,
         "labelNoise": 5
     },
     {
         "index": 98,
-        "weightDecay": 0.1,
-        "hiddenWidth": 48,
-        "labelNoise": 10
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 8,
+        "labelNoise": 15
     },
     {
         "index": 99,
-        "weightDecay": 0.1,
-        "hiddenWidth": 48,
-        "labelNoise": 15
-    },
-    {
-        "index": 100,
-        "weightDecay": 0.1,
-        "hiddenWidth": 48,
-        "labelNoise": 20
-    },
-    {
-        "index": 101,
-        "weightDecay": 0.1,
-        "hiddenWidth": 48,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 8,
         "labelNoise": 25
     },
     {
-        "index": 102,
-        "weightDecay": 0.1,
-        "hiddenWidth": 128,
+        "index": 100,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 12,
         "labelNoise": 0
     },
     {
-        "index": 103,
-        "weightDecay": 0.1,
-        "hiddenWidth": 128,
+        "index": 101,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 12,
         "labelNoise": 5
     },
     {
-        "index": 104,
-        "weightDecay": 0.1,
-        "hiddenWidth": 128,
-        "labelNoise": 10
-    },
-    {
-        "index": 105,
-        "weightDecay": 0.1,
-        "hiddenWidth": 128,
+        "index": 102,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 12,
         "labelNoise": 15
     },
     {
+        "index": 103,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 12,
+        "labelNoise": 25
+    },
+    {
+        "index": 104,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 16,
+        "labelNoise": 0
+    },
+    {
+        "index": 105,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 16,
+        "labelNoise": 5
+    },
+    {
         "index": 106,
-        "weightDecay": 0.1,
-        "hiddenWidth": 128,
-        "labelNoise": 20
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 16,
+        "labelNoise": 15
     },
     {
         "index": 107,
-        "weightDecay": 0.1,
-        "hiddenWidth": 128,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 16,
         "labelNoise": 25
     },
     {
         "index": 108,
-        "weightDecay": 0.1,
-        "hiddenWidth": 256,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 20,
         "labelNoise": 0
     },
     {
         "index": 109,
-        "weightDecay": 0.1,
-        "hiddenWidth": 256,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 20,
         "labelNoise": 5
     },
     {
         "index": 110,
-        "weightDecay": 0.1,
-        "hiddenWidth": 256,
-        "labelNoise": 10
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 20,
+        "labelNoise": 15
     },
     {
         "index": 111,
-        "weightDecay": 0.1,
-        "hiddenWidth": 256,
-        "labelNoise": 15
-    },
-    {
-        "index": 112,
-        "weightDecay": 0.1,
-        "hiddenWidth": 256,
-        "labelNoise": 20
-    },
-    {
-        "index": 113,
-        "weightDecay": 0.1,
-        "hiddenWidth": 256,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 20,
         "labelNoise": 25
     },
     {
-        "index": 114,
-        "weightDecay": 0.1,
-        "hiddenWidth": 512,
+        "index": 112,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 32,
         "labelNoise": 0
     },
     {
-        "index": 115,
-        "weightDecay": 0.1,
-        "hiddenWidth": 512,
+        "index": 113,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 32,
         "labelNoise": 5
     },
     {
-        "index": 116,
-        "weightDecay": 0.1,
-        "hiddenWidth": 512,
-        "labelNoise": 10
-    },
-    {
-        "index": 117,
-        "weightDecay": 0.1,
-        "hiddenWidth": 512,
+        "index": 114,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 32,
         "labelNoise": 15
     },
     {
+        "index": 115,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 32,
+        "labelNoise": 25
+    },
+    {
+        "index": 116,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 64,
+        "labelNoise": 0
+    },
+    {
+        "index": 117,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 64,
+        "labelNoise": 5
+    },
+    {
         "index": 118,
-        "weightDecay": 0.1,
-        "hiddenWidth": 512,
-        "labelNoise": 20
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 64,
+        "labelNoise": 15
     },
     {
         "index": 119,
-        "weightDecay": 0.1,
-        "hiddenWidth": 512,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 64,
         "labelNoise": 25
     },
     {
         "index": 120,
-        "weightDecay": 0.2,
-        "hiddenWidth": 20,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 128,
         "labelNoise": 0
     },
     {
         "index": 121,
-        "weightDecay": 0.2,
-        "hiddenWidth": 20,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 128,
         "labelNoise": 5
     },
     {
         "index": 122,
-        "weightDecay": 0.2,
-        "hiddenWidth": 20,
-        "labelNoise": 10
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 128,
+        "labelNoise": 15
     },
     {
         "index": 123,
-        "weightDecay": 0.2,
-        "hiddenWidth": 20,
-        "labelNoise": 15
-    },
-    {
-        "index": 124,
-        "weightDecay": 0.2,
-        "hiddenWidth": 20,
-        "labelNoise": 20
-    },
-    {
-        "index": 125,
-        "weightDecay": 0.2,
-        "hiddenWidth": 20,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 128,
         "labelNoise": 25
     },
     {
-        "index": 126,
-        "weightDecay": 0.2,
-        "hiddenWidth": 48,
+        "index": 124,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 256,
         "labelNoise": 0
     },
     {
-        "index": 127,
-        "weightDecay": 0.2,
-        "hiddenWidth": 48,
+        "index": 125,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 256,
         "labelNoise": 5
     },
     {
-        "index": 128,
-        "weightDecay": 0.2,
-        "hiddenWidth": 48,
-        "labelNoise": 10
-    },
-    {
-        "index": 129,
-        "weightDecay": 0.2,
-        "hiddenWidth": 48,
+        "index": 126,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 256,
         "labelNoise": 15
     },
     {
+        "index": 127,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 256,
+        "labelNoise": 25
+    },
+    {
+        "index": 128,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 512,
+        "labelNoise": 0
+    },
+    {
+        "index": 129,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 512,
+        "labelNoise": 5
+    },
+    {
         "index": 130,
-        "weightDecay": 0.2,
-        "hiddenWidth": 48,
-        "labelNoise": 20
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 512,
+        "labelNoise": 15
     },
     {
         "index": 131,
-        "weightDecay": 0.2,
-        "hiddenWidth": 48,
+        "weightDecay": 0.00045730505192732656,
+        "hiddenWidth": 512,
         "labelNoise": 25
     },
     {
         "index": 132,
-        "weightDecay": 0.2,
-        "hiddenWidth": 128,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 2,
         "labelNoise": 0
     },
     {
         "index": 133,
-        "weightDecay": 0.2,
-        "hiddenWidth": 128,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 2,
         "labelNoise": 5
     },
     {
         "index": 134,
-        "weightDecay": 0.2,
-        "hiddenWidth": 128,
-        "labelNoise": 10
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 2,
+        "labelNoise": 15
     },
     {
         "index": 135,
-        "weightDecay": 0.2,
-        "hiddenWidth": 128,
-        "labelNoise": 15
-    },
-    {
-        "index": 136,
-        "weightDecay": 0.2,
-        "hiddenWidth": 128,
-        "labelNoise": 20
-    },
-    {
-        "index": 137,
-        "weightDecay": 0.2,
-        "hiddenWidth": 128,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 2,
         "labelNoise": 25
     },
     {
-        "index": 138,
-        "weightDecay": 0.2,
-        "hiddenWidth": 256,
+        "index": 136,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 4,
         "labelNoise": 0
     },
     {
-        "index": 139,
-        "weightDecay": 0.2,
-        "hiddenWidth": 256,
+        "index": 137,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 4,
         "labelNoise": 5
     },
     {
-        "index": 140,
-        "weightDecay": 0.2,
-        "hiddenWidth": 256,
-        "labelNoise": 10
-    },
-    {
-        "index": 141,
-        "weightDecay": 0.2,
-        "hiddenWidth": 256,
+        "index": 138,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 4,
         "labelNoise": 15
     },
     {
+        "index": 139,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 4,
+        "labelNoise": 25
+    },
+    {
+        "index": 140,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 8,
+        "labelNoise": 0
+    },
+    {
+        "index": 141,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 8,
+        "labelNoise": 5
+    },
+    {
         "index": 142,
-        "weightDecay": 0.2,
-        "hiddenWidth": 256,
-        "labelNoise": 20
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 8,
+        "labelNoise": 15
     },
     {
         "index": 143,
-        "weightDecay": 0.2,
-        "hiddenWidth": 256,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 8,
         "labelNoise": 25
     },
     {
         "index": 144,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 12,
+        "labelNoise": 0
+    },
+    {
+        "index": 145,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 12,
+        "labelNoise": 5
+    },
+    {
+        "index": 146,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 12,
+        "labelNoise": 15
+    },
+    {
+        "index": 147,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 12,
+        "labelNoise": 25
+    },
+    {
+        "index": 148,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 16,
+        "labelNoise": 0
+    },
+    {
+        "index": 149,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 16,
+        "labelNoise": 5
+    },
+    {
+        "index": 150,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 16,
+        "labelNoise": 15
+    },
+    {
+        "index": 151,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 16,
+        "labelNoise": 25
+    },
+    {
+        "index": 152,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 20,
+        "labelNoise": 0
+    },
+    {
+        "index": 153,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 20,
+        "labelNoise": 5
+    },
+    {
+        "index": 154,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 20,
+        "labelNoise": 15
+    },
+    {
+        "index": 155,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 20,
+        "labelNoise": 25
+    },
+    {
+        "index": 156,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 32,
+        "labelNoise": 0
+    },
+    {
+        "index": 157,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 32,
+        "labelNoise": 5
+    },
+    {
+        "index": 158,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 32,
+        "labelNoise": 15
+    },
+    {
+        "index": 159,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 32,
+        "labelNoise": 25
+    },
+    {
+        "index": 160,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 64,
+        "labelNoise": 0
+    },
+    {
+        "index": 161,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 64,
+        "labelNoise": 5
+    },
+    {
+        "index": 162,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 64,
+        "labelNoise": 15
+    },
+    {
+        "index": 163,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 64,
+        "labelNoise": 25
+    },
+    {
+        "index": 164,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 128,
+        "labelNoise": 0
+    },
+    {
+        "index": 165,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 128,
+        "labelNoise": 5
+    },
+    {
+        "index": 166,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 128,
+        "labelNoise": 15
+    },
+    {
+        "index": 167,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 128,
+        "labelNoise": 25
+    },
+    {
+        "index": 168,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 256,
+        "labelNoise": 0
+    },
+    {
+        "index": 169,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 256,
+        "labelNoise": 5
+    },
+    {
+        "index": 170,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 256,
+        "labelNoise": 15
+    },
+    {
+        "index": 171,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 256,
+        "labelNoise": 25
+    },
+    {
+        "index": 172,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 512,
+        "labelNoise": 0
+    },
+    {
+        "index": 173,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 512,
+        "labelNoise": 5
+    },
+    {
+        "index": 174,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 512,
+        "labelNoise": 15
+    },
+    {
+        "index": 175,
+        "weightDecay": 0.002091279105182546,
+        "hiddenWidth": 512,
+        "labelNoise": 25
+    },
+    {
+        "index": 176,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 2,
+        "labelNoise": 0
+    },
+    {
+        "index": 177,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 2,
+        "labelNoise": 5
+    },
+    {
+        "index": 178,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 2,
+        "labelNoise": 15
+    },
+    {
+        "index": 179,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 2,
+        "labelNoise": 25
+    },
+    {
+        "index": 180,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 4,
+        "labelNoise": 0
+    },
+    {
+        "index": 181,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 4,
+        "labelNoise": 5
+    },
+    {
+        "index": 182,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 4,
+        "labelNoise": 15
+    },
+    {
+        "index": 183,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 4,
+        "labelNoise": 25
+    },
+    {
+        "index": 184,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 8,
+        "labelNoise": 0
+    },
+    {
+        "index": 185,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 8,
+        "labelNoise": 5
+    },
+    {
+        "index": 186,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 8,
+        "labelNoise": 15
+    },
+    {
+        "index": 187,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 8,
+        "labelNoise": 25
+    },
+    {
+        "index": 188,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 12,
+        "labelNoise": 0
+    },
+    {
+        "index": 189,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 12,
+        "labelNoise": 5
+    },
+    {
+        "index": 190,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 12,
+        "labelNoise": 15
+    },
+    {
+        "index": 191,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 12,
+        "labelNoise": 25
+    },
+    {
+        "index": 192,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 16,
+        "labelNoise": 0
+    },
+    {
+        "index": 193,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 16,
+        "labelNoise": 5
+    },
+    {
+        "index": 194,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 16,
+        "labelNoise": 15
+    },
+    {
+        "index": 195,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 16,
+        "labelNoise": 25
+    },
+    {
+        "index": 196,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 20,
+        "labelNoise": 0
+    },
+    {
+        "index": 197,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 20,
+        "labelNoise": 5
+    },
+    {
+        "index": 198,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 20,
+        "labelNoise": 15
+    },
+    {
+        "index": 199,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 20,
+        "labelNoise": 25
+    },
+    {
+        "index": 200,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 32,
+        "labelNoise": 0
+    },
+    {
+        "index": 201,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 32,
+        "labelNoise": 5
+    },
+    {
+        "index": 202,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 32,
+        "labelNoise": 15
+    },
+    {
+        "index": 203,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 32,
+        "labelNoise": 25
+    },
+    {
+        "index": 204,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 64,
+        "labelNoise": 0
+    },
+    {
+        "index": 205,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 64,
+        "labelNoise": 5
+    },
+    {
+        "index": 206,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 64,
+        "labelNoise": 15
+    },
+    {
+        "index": 207,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 64,
+        "labelNoise": 25
+    },
+    {
+        "index": 208,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 128,
+        "labelNoise": 0
+    },
+    {
+        "index": 209,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 128,
+        "labelNoise": 5
+    },
+    {
+        "index": 210,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 128,
+        "labelNoise": 15
+    },
+    {
+        "index": 211,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 128,
+        "labelNoise": 25
+    },
+    {
+        "index": 212,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 256,
+        "labelNoise": 0
+    },
+    {
+        "index": 213,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 256,
+        "labelNoise": 5
+    },
+    {
+        "index": 214,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 256,
+        "labelNoise": 15
+    },
+    {
+        "index": 215,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 256,
+        "labelNoise": 25
+    },
+    {
+        "index": 216,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 512,
+        "labelNoise": 0
+    },
+    {
+        "index": 217,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 512,
+        "labelNoise": 5
+    },
+    {
+        "index": 218,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 512,
+        "labelNoise": 15
+    },
+    {
+        "index": 219,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 512,
+        "labelNoise": 25
+    },
+    {
+        "index": 220,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 2,
+        "labelNoise": 0
+    },
+    {
+        "index": 221,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 2,
+        "labelNoise": 5
+    },
+    {
+        "index": 222,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 2,
+        "labelNoise": 15
+    },
+    {
+        "index": 223,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 2,
+        "labelNoise": 25
+    },
+    {
+        "index": 224,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 4,
+        "labelNoise": 0
+    },
+    {
+        "index": 225,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 4,
+        "labelNoise": 5
+    },
+    {
+        "index": 226,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 4,
+        "labelNoise": 15
+    },
+    {
+        "index": 227,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 4,
+        "labelNoise": 25
+    },
+    {
+        "index": 228,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 8,
+        "labelNoise": 0
+    },
+    {
+        "index": 229,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 8,
+        "labelNoise": 5
+    },
+    {
+        "index": 230,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 8,
+        "labelNoise": 15
+    },
+    {
+        "index": 231,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 8,
+        "labelNoise": 25
+    },
+    {
+        "index": 232,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 12,
+        "labelNoise": 0
+    },
+    {
+        "index": 233,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 12,
+        "labelNoise": 5
+    },
+    {
+        "index": 234,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 12,
+        "labelNoise": 15
+    },
+    {
+        "index": 235,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 12,
+        "labelNoise": 25
+    },
+    {
+        "index": 236,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 16,
+        "labelNoise": 0
+    },
+    {
+        "index": 237,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 16,
+        "labelNoise": 5
+    },
+    {
+        "index": 238,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 16,
+        "labelNoise": 15
+    },
+    {
+        "index": 239,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 16,
+        "labelNoise": 25
+    },
+    {
+        "index": 240,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 20,
+        "labelNoise": 0
+    },
+    {
+        "index": 241,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 20,
+        "labelNoise": 5
+    },
+    {
+        "index": 242,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 20,
+        "labelNoise": 15
+    },
+    {
+        "index": 243,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 20,
+        "labelNoise": 25
+    },
+    {
+        "index": 244,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 32,
+        "labelNoise": 0
+    },
+    {
+        "index": 245,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 32,
+        "labelNoise": 5
+    },
+    {
+        "index": 246,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 32,
+        "labelNoise": 15
+    },
+    {
+        "index": 247,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 32,
+        "labelNoise": 25
+    },
+    {
+        "index": 248,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 64,
+        "labelNoise": 0
+    },
+    {
+        "index": 249,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 64,
+        "labelNoise": 5
+    },
+    {
+        "index": 250,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 64,
+        "labelNoise": 15
+    },
+    {
+        "index": 251,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 64,
+        "labelNoise": 25
+    },
+    {
+        "index": 252,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 128,
+        "labelNoise": 0
+    },
+    {
+        "index": 253,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 128,
+        "labelNoise": 5
+    },
+    {
+        "index": 254,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 128,
+        "labelNoise": 15
+    },
+    {
+        "index": 255,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 128,
+        "labelNoise": 25
+    },
+    {
+        "index": 256,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 256,
+        "labelNoise": 0
+    },
+    {
+        "index": 257,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 256,
+        "labelNoise": 5
+    },
+    {
+        "index": 258,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 256,
+        "labelNoise": 15
+    },
+    {
+        "index": 259,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 256,
+        "labelNoise": 25
+    },
+    {
+        "index": 260,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 512,
+        "labelNoise": 0
+    },
+    {
+        "index": 261,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 512,
+        "labelNoise": 5
+    },
+    {
+        "index": 262,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 512,
+        "labelNoise": 15
+    },
+    {
+        "index": 263,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 512,
+        "labelNoise": 25
+    },
+    {
+        "index": 264,
+        "weightDecay": 0.2,
+        "hiddenWidth": 2,
+        "labelNoise": 0
+    },
+    {
+        "index": 265,
+        "weightDecay": 0.2,
+        "hiddenWidth": 2,
+        "labelNoise": 5
+    },
+    {
+        "index": 266,
+        "weightDecay": 0.2,
+        "hiddenWidth": 2,
+        "labelNoise": 15
+    },
+    {
+        "index": 267,
+        "weightDecay": 0.2,
+        "hiddenWidth": 2,
+        "labelNoise": 25
+    },
+    {
+        "index": 268,
+        "weightDecay": 0.2,
+        "hiddenWidth": 4,
+        "labelNoise": 0
+    },
+    {
+        "index": 269,
+        "weightDecay": 0.2,
+        "hiddenWidth": 4,
+        "labelNoise": 5
+    },
+    {
+        "index": 270,
+        "weightDecay": 0.2,
+        "hiddenWidth": 4,
+        "labelNoise": 15
+    },
+    {
+        "index": 271,
+        "weightDecay": 0.2,
+        "hiddenWidth": 4,
+        "labelNoise": 25
+    },
+    {
+        "index": 272,
+        "weightDecay": 0.2,
+        "hiddenWidth": 8,
+        "labelNoise": 0
+    },
+    {
+        "index": 273,
+        "weightDecay": 0.2,
+        "hiddenWidth": 8,
+        "labelNoise": 5
+    },
+    {
+        "index": 274,
+        "weightDecay": 0.2,
+        "hiddenWidth": 8,
+        "labelNoise": 15
+    },
+    {
+        "index": 275,
+        "weightDecay": 0.2,
+        "hiddenWidth": 8,
+        "labelNoise": 25
+    },
+    {
+        "index": 276,
+        "weightDecay": 0.2,
+        "hiddenWidth": 12,
+        "labelNoise": 0
+    },
+    {
+        "index": 277,
+        "weightDecay": 0.2,
+        "hiddenWidth": 12,
+        "labelNoise": 5
+    },
+    {
+        "index": 278,
+        "weightDecay": 0.2,
+        "hiddenWidth": 12,
+        "labelNoise": 15
+    },
+    {
+        "index": 279,
+        "weightDecay": 0.2,
+        "hiddenWidth": 12,
+        "labelNoise": 25
+    },
+    {
+        "index": 280,
+        "weightDecay": 0.2,
+        "hiddenWidth": 16,
+        "labelNoise": 0
+    },
+    {
+        "index": 281,
+        "weightDecay": 0.2,
+        "hiddenWidth": 16,
+        "labelNoise": 5
+    },
+    {
+        "index": 282,
+        "weightDecay": 0.2,
+        "hiddenWidth": 16,
+        "labelNoise": 15
+    },
+    {
+        "index": 283,
+        "weightDecay": 0.2,
+        "hiddenWidth": 16,
+        "labelNoise": 25
+    },
+    {
+        "index": 284,
+        "weightDecay": 0.2,
+        "hiddenWidth": 20,
+        "labelNoise": 0
+    },
+    {
+        "index": 285,
+        "weightDecay": 0.2,
+        "hiddenWidth": 20,
+        "labelNoise": 5
+    },
+    {
+        "index": 286,
+        "weightDecay": 0.2,
+        "hiddenWidth": 20,
+        "labelNoise": 15
+    },
+    {
+        "index": 287,
+        "weightDecay": 0.2,
+        "hiddenWidth": 20,
+        "labelNoise": 25
+    },
+    {
+        "index": 288,
+        "weightDecay": 0.2,
+        "hiddenWidth": 32,
+        "labelNoise": 0
+    },
+    {
+        "index": 289,
+        "weightDecay": 0.2,
+        "hiddenWidth": 32,
+        "labelNoise": 5
+    },
+    {
+        "index": 290,
+        "weightDecay": 0.2,
+        "hiddenWidth": 32,
+        "labelNoise": 15
+    },
+    {
+        "index": 291,
+        "weightDecay": 0.2,
+        "hiddenWidth": 32,
+        "labelNoise": 25
+    },
+    {
+        "index": 292,
+        "weightDecay": 0.2,
+        "hiddenWidth": 64,
+        "labelNoise": 0
+    },
+    {
+        "index": 293,
+        "weightDecay": 0.2,
+        "hiddenWidth": 64,
+        "labelNoise": 5
+    },
+    {
+        "index": 294,
+        "weightDecay": 0.2,
+        "hiddenWidth": 64,
+        "labelNoise": 15
+    },
+    {
+        "index": 295,
+        "weightDecay": 0.2,
+        "hiddenWidth": 64,
+        "labelNoise": 25
+    },
+    {
+        "index": 296,
+        "weightDecay": 0.2,
+        "hiddenWidth": 128,
+        "labelNoise": 0
+    },
+    {
+        "index": 297,
+        "weightDecay": 0.2,
+        "hiddenWidth": 128,
+        "labelNoise": 5
+    },
+    {
+        "index": 298,
+        "weightDecay": 0.2,
+        "hiddenWidth": 128,
+        "labelNoise": 15
+    },
+    {
+        "index": 299,
+        "weightDecay": 0.2,
+        "hiddenWidth": 128,
+        "labelNoise": 25
+    },
+    {
+        "index": 300,
+        "weightDecay": 0.2,
+        "hiddenWidth": 256,
+        "labelNoise": 0
+    },
+    {
+        "index": 301,
+        "weightDecay": 0.2,
+        "hiddenWidth": 256,
+        "labelNoise": 5
+    },
+    {
+        "index": 302,
+        "weightDecay": 0.2,
+        "hiddenWidth": 256,
+        "labelNoise": 15
+    },
+    {
+        "index": 303,
+        "weightDecay": 0.2,
+        "hiddenWidth": 256,
+        "labelNoise": 25
+    },
+    {
+        "index": 304,
         "weightDecay": 0.2,
         "hiddenWidth": 512,
         "labelNoise": 0
     },
     {
-        "index": 145,
+        "index": 305,
         "weightDecay": 0.2,
         "hiddenWidth": 512,
         "labelNoise": 5
     },
     {
-        "index": 146,
-        "weightDecay": 0.2,
-        "hiddenWidth": 512,
-        "labelNoise": 10
-    },
-    {
-        "index": 147,
+        "index": 306,
         "weightDecay": 0.2,
         "hiddenWidth": 512,
         "labelNoise": 15
     },
     {
-        "index": 148,
-        "weightDecay": 0.2,
-        "hiddenWidth": 512,
-        "labelNoise": 20
-    },
-    {
-        "index": 149,
+        "index": 307,
         "weightDecay": 0.2,
         "hiddenWidth": 512,
         "labelNoise": 25
