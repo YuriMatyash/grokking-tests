@@ -1,0 +1,21 @@
+{
+    "index": 221,
+    "weightDecay": 0.04373448295773111,
+    "hiddenWidth": 2,
+    "labelNoise": 5,
+    "epochs": 10000,
+    "parameters": 543,
+    "trainConvergenceEpoch": null,
+    "testConvergenceEpoch": null,
+    "grokkingDelay": null,
+    "grokked": false,
+    "trainThreshold": 0.99,
+    "testThreshold": 0.95,
+    "finalTrainAccuracy": 0.03962951715760705,
+    "finalCleanTrainAccuracy": 0.04084421500151837,
+    "finalTestAccuracy": 0.029401346085724405,
+    "finalTrainLoss": 4.074520330026524,
+    "finalCleanTrainLoss": 4.025236007546785,
+    "finalTestLoss": 4.062720574092832,
+    "elapsedSeconds": 91.71135997772217
+}
