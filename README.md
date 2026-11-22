@@ -137,3 +137,61 @@ The four panels show 0% and 5% training-label noise on the top row and 15% and 2
 An example of a model that grokked:  
 Model #204 : Label Noise: 0% | Network Width: 64 | Weight Decay: 0.00956
 ![Grokking Landscape](grokking_experiments/models/model_204/learning_curves.png)
+
+## Models That Exhibited Grokking
+
+Total models: 48
+
+[Model #12 : Label Noise: 0% | Network Width: 12 | Weight Decay: 0](grokking_experiments/models/model_012/learning_curves.png)
+
+[Model #20 : Label Noise: 0% | Network Width: 20 | Weight Decay: 0](grokking_experiments/models/model_020/learning_curves.png)
+
+[Model #56 : Label Noise: 0% | Network Width: 12 | Weight Decay: 0.0001](grokking_experiments/models/model_056/learning_curves.png)
+
+[Model #64 : Label Noise: 0% | Network Width: 20 | Weight Decay: 0.0001](grokking_experiments/models/model_064/learning_curves.png)
+
+[Model #100 : Label Noise: 0% | Network Width: 12 | Weight Decay: 0.00045731](grokking_experiments/models/model_100/learning_curves.png)
+
+[Model #108 : Label Noise: 0% | Network Width: 20 | Weight Decay: 0.00045731](grokking_experiments/models/model_108/learning_curves.png)
+
+[Model #152 : Label Noise: 0% | Network Width: 20 | Weight Decay: 0.0020913](grokking_experiments/models/model_152/learning_curves.png)
+
+[Model #188 : Label Noise: 0% | Network Width: 12 | Weight Decay: 0.0095635](grokking_experiments/models/model_188/learning_curves.png)
+
+[Model #192 : Label Noise: 0% | Network Width: 16 | Weight Decay: 0.0095635](grokking_experiments/models/model_192/learning_curves.png)
+
+[Model #196 : Label Noise: 0% | Network Width: 20 | Weight Decay: 0.0095635](grokking_experiments/models/model_196/learning_curves.png)
+
+[Model #200 : Label Noise: 0% | Network Width: 32 | Weight Decay: 0.0095635](grokking_experiments/models/model_200/learning_curves.png)
+
+[Model #204 : Label Noise: 0% | Network Width: 64 | Weight Decay: 0.0095635](grokking_experiments/models/model_204/learning_curves.png)
+
+[Model #209 : Label Noise: 5% | Network Width: 128 | Weight Decay: 0.0095635](grokking_experiments/models/model_209/learning_curves.png)
+
+[Model #212 : Label Noise: 0% | Network Width: 256 | Weight Decay: 0.0095635](grokking_experiments/models/model_212/learning_curves.png)
+
+[Model #213 : Label Noise: 5% | Network Width: 256 | Weight Decay: 0.0095635](grokking_experiments/models/model_213/learning_curves.png)
+
+[Model #216 : Label Noise: 0% | Network Width: 512 | Weight Decay: 0.0095635](grokking_experiments/models/model_216/learning_curves.png)
+
+[Model #217 : Label Noise: 5% | Network Width: 512 | Weight Decay: 0.0095635](grokking_experiments/models/model_217/learning_curves.png)
+
+[Model #228 : Label Noise: 0% | Network Width: 8 | Weight Decay: 0.043734](grokking_experiments/models/model_228/learning_curves.png)
+
+[Model #236 : Label Noise: 0% | Network Width: 16 | Weight Decay: 0.043734](grokking_experiments/models/model_236/learning_curves.png)
+
+[Model #244 : Label Noise: 0% | Network Width: 32 | Weight Decay: 0.043734](grokking_experiments/models/model_244/learning_curves.png)
+
+[Model #245 : Label Noise: 5% | Network Width: 32 | Weight Decay: 0.043734](grokking_experiments/models/model_245/learning_curves.png)
+
+[Model #248 : Label Noise: 0% | Network Width: 64 | Weight Decay: 0.043734](grokking_experiments/models/model_248/learning_curves.png)
+
+[Model #249 : Label Noise: 5% | Network Width: 64 | Weight Decay: 0.043734](grokking_experiments/models/model_249/learning_curves.png)
+
+[Model #252 : Label Noise: 0% | Network Width: 128 | Weight Decay: 0.043734](grokking_experiments/models/model_252/learning_curves.png)
+
+[Model #253 : Label Noise: 5% | Network Width: 128 | Weight Decay: 0.043734](grokking_experiments/models/model_253/learning_curves.png)
+
+[Model #254 : Label Noise: 15% | Network Width: 128 | Weight Decay: 0.043734](grokking_experiments/models/model_254/learning_curves.png)
+
+[Model #256 : Label Noise: 0% | Network Width: 256 | Weight Decay: 0.043734](grokking_experiments/models/model_256/learning_curves.png)
