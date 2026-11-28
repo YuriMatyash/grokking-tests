@@ -1,0 +1,74 @@
+[
+    {
+        "index": 0,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 12,
+        "labelNoise": 15
+    },
+    {
+        "index": 1,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 12,
+        "labelNoise": 25
+    },
+    {
+        "index": 2,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 512,
+        "labelNoise": 15
+    },
+    {
+        "index": 3,
+        "weightDecay": 0.009563524997900363,
+        "hiddenWidth": 512,
+        "labelNoise": 25
+    },
+    {
+        "index": 4,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 12,
+        "labelNoise": 15
+    },
+    {
+        "index": 5,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 12,
+        "labelNoise": 25
+    },
+    {
+        "index": 6,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 512,
+        "labelNoise": 15
+    },
+    {
+        "index": 7,
+        "weightDecay": 0.04373448295773111,
+        "hiddenWidth": 512,
+        "labelNoise": 25
+    },
+    {
+        "index": 8,
+        "weightDecay": 0.2,
+        "hiddenWidth": 12,
+        "labelNoise": 15
+    },
+    {
+        "index": 9,
+        "weightDecay": 0.2,
+        "hiddenWidth": 12,
+        "labelNoise": 25
+    },
+    {
+        "index": 10,
+        "weightDecay": 0.2,
+        "hiddenWidth": 512,
+        "labelNoise": 15
+    },
+    {
+        "index": 11,
+        "weightDecay": 0.2,
+        "hiddenWidth": 512,
+        "labelNoise": 25
+    }
+]
